@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Java Developer with experience in
 
 ### 🌱 Learning & Exploring
 - Advanced concepts in **Spring Boot**, **React**, and **Firebase**.
-- Diving deeper into **Recurrent Neural Networks (RNNs)**.
-- Enhancing my knowledge in **Information Storage and Retrieval**.
 
 ### 💬 Ask Me About
 - Java Development
