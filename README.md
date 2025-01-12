@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Java Developer with experience in
 - Spring Boot, Rest API, Hibernate, and Data JPA
 - Data Structures and Algorithms
 
+
 ### 📫 How to Reach Me
 - Email: [wadhekarrahul1818@gmail.com](mailto:wadhekarrahul1818@gmail.com)
 - LinkedIn: [Rahul Wadhekar](https://www.linkedin.com/in/rahul-wadhekar-954a45225/)
@@ -23,6 +24,9 @@ Welcome to my GitHub profile! I'm a passionate Java Developer with experience in
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll find me exploring new tech trends, working on side projects, or engaging in hackathons!
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 
 ---
 
