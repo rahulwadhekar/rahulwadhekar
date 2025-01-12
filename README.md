@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Java Developer with experience in
 ### ⚡ Fun Fact
 When I’m not coding, you’ll find me exploring new tech trends, working on side projects, or engaging in hackathons!
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rahulwadhekar/rahulwadhekar/blob/output/github-snake-dark.svg)
 
 
 ---
