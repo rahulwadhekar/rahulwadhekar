@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 ---
 
 ### 📫 How to Reach Me  
-- **Email**: [rahulwadhekar@example.com](mailto:rahulwadhekar@example.com)  
-- **LinkedIn**: [Rahul Wadhekar](https://linkedin.com/in/rahulwadhekar)  
-- **Portfolio**: [rahulwadhekar.dev](https://rahulwadhekar.dev)  
+- **Email**: [rahulwadhekar1818@gmail.com](mailto:rahulwadhekar1818@gmail.com)  
+- **LinkedIn**: [Rahul Wadhekar](https://www.linkedin.com/in/rahul-wadhekar-954a45225/)  
+- **Portfolio**: [rahulwadhekar.dev](https://rahulwadhekar.netlify.app/)  
 
 ---
 
